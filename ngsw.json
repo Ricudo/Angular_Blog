@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659303759316,
+  "timestamp": 1659304448899,
   "index": "https://github.com/Ricudo/Angular_Blog/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "https://github.com/Ricudo/Angular_Blog/971.35cf38e6af69468b.js",
         "https://github.com/Ricudo/Angular_Blog/favicon.ico",
         "https://github.com/Ricudo/Angular_Blog/index.html",
-        "https://github.com/Ricudo/Angular_Blog/main.f0c6d814ae72b788.js",
+        "https://github.com/Ricudo/Angular_Blog/main.a290ae9c889996c0.js",
         "https://github.com/Ricudo/Angular_Blog/manifest.webmanifest",
         "https://github.com/Ricudo/Angular_Blog/polyfills.3dc6afce90218422.js",
         "https://github.com/Ricudo/Angular_Blog/runtime.6e78e6a2cf1fca29.js",
@@ -73,8 +73,8 @@
     "https://github.com/Ricudo/Angular_Blog/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/Ricudo/Angular_Blog/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/Ricudo/Angular_Blog/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/Ricudo/Angular_Blog/index.html": "e5ed9e415601c32f3b6049c24f7d91774d696de6",
-    "https://github.com/Ricudo/Angular_Blog/main.f0c6d814ae72b788.js": "a8f63ad1c0193780b143b3b3d473ba0e478bbf9a",
+    "https://github.com/Ricudo/Angular_Blog/index.html": "ac2f90e590c004e3f8ebeba163de7da54c7066c0",
+    "https://github.com/Ricudo/Angular_Blog/main.a290ae9c889996c0.js": "c0a2e835e7eb57e9f82ade10925ce95024e682fc",
     "https://github.com/Ricudo/Angular_Blog/manifest.webmanifest": "faab37b194b8ea155238b3c53c4d4c27011acb86",
     "https://github.com/Ricudo/Angular_Blog/polyfills.3dc6afce90218422.js": "3b552d7df652f59079af1d20dca92dbfcf4d9523",
     "https://github.com/Ricudo/Angular_Blog/runtime.6e78e6a2cf1fca29.js": "28ec60915952e8ca50a4df39119757c5446abd99",
