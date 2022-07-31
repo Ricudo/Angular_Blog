@@ -1,0 +1,10 @@
+.bottom-border{
+  padding-top: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+  transition: border-bottom .3s ease-in-out;
+}
+
+.bottom-border:hover{
+  border-bottom: 2px solid var(--success-color);
+}
